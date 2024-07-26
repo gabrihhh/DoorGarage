@@ -41,4 +41,5 @@ button{
     height: 50px;
     position: relative;
     left: 0px;
+    transition: linear 1s;
 }
